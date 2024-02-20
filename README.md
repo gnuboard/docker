@@ -8,3 +8,8 @@
 chmod +x run-docker-container.sh
 sudo ./run-docker-container.sh
 ```
+
+### 설치가 끝난후 브라우저에서
+
+http://서버IP:8000 으로 접속하면 됩니다.
+
